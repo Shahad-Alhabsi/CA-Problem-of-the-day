@@ -1,9 +1,8 @@
 """
-@author: Shahad AlHabsi
+@author: Shahad Al Habsi
 
 Problem of the day 14/11/2023
 """
-
 
 # read the grid from the user
 rows= input("Constructing the grid: \nHow namy rows does your grid have? ")
