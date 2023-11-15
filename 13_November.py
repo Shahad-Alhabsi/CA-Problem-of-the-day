@@ -1,7 +1,7 @@
 """
 @author: Shahad Al Habsi
 
-problem of the day 15/November:
+problem of the day 15/11/2023:
 Given two sorted arrays, metge them in a sorted order without using any extra space.
 """
 # read lists from the user
