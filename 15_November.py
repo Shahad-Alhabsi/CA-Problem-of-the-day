@@ -18,7 +18,6 @@ for i in array1:
                 array2.insert(array2.index(j),i)
                 break
             
-print(array2)
 for i in range(len(array2)-1):
     print(array2[i]," , ",end="")
 print(array2[-1])
