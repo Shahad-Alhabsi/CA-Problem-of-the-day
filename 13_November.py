@@ -1,4 +1,5 @@
-"""Author : Shahad Al Habsi
+"""
+@author: Shahad Al Habsi
 
 problem of the day 15/November:
 Given two sorted arrays, metge them in a sorted order without using any extra space.
